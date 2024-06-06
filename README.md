@@ -1,4 +1,7 @@
-## Hi there 👋
+# About
+I write code.  
+"hey can you please explain to me on what all these licenses do"
+
 
 <!--
 **obfuscated-end-user/obfuscated-end-user** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
