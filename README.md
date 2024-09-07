@@ -1,6 +1,9 @@
 # About
+<!-- ⚠️ DON'T PUT YOUR REAL NAME HERE. THIS ALSO APPLIES TO ALL YOUR OTHER REPOS.  -->
+<!-- ⚠️ IF YOU (THE READER) SPOT IT SOMEWHERE IN ONE OF MY REPOS, CONTACT ME ASAP. -->
 I write code.  
-College student still figuring out how the world works.  
+You can follow me here on GitHub, or view my repositories.  
+You can also follow me on the social media link I provided. <!-- you only have one link -->  
 
 "hey, can you please explain to me on what all these licenses do?"
 
