@@ -17,6 +17,8 @@ Generated using [joshxfi](https://github.com/joshxfi)'s [GitHub Stats Generator]
 ![obfuscated-end-user's Streak](https://github-readme-streak-stats.herokuapp.com/?user=obfuscated-end-user&theme=vue-dark&hide_border=true)  
 ![obfuscated-end-user's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obfuscated-end-user&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook)  
 
+[secret link](https://github.com/obfuscated-end-user/obfuscated-end-user/blob/main/copypasta.md)
+
 <!--
 **obfuscated-end-user/obfuscated-end-user** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
