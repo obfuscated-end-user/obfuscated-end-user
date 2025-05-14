@@ -9,7 +9,7 @@ You can also follow me on the social media link I provided. <!-- you only have o
 
 # Hobbies
 * what's that
-* [(-_-)](https://github.com/obfuscated-end-user/obfuscated-end-user/blob/main/copypasta.md)
+* [Wikipedia](https://github.com/obfuscated-end-user/obfuscated-end-user/blob/main/wikipedia.md)
 
 # Account statistics
 Generated using [joshxfi](https://github.com/joshxfi)'s [GitHub Stats Generator](https://gh-stats-gen.vercel.app).  
