@@ -6,9 +6,9 @@ The dates indicate when I finished reading those articles, **NOT** when I starte
 
 Articles listed below are subject to change in the future, and may become redirects [(example)](https://en.wikipedia.org/wiki/Black_Foxes), dead pages [(example)](https://en.wikipedia.org/wiki/Deccan-Vijayanagar_Wars) or having entirely different content from when I read them at that date.
 
-The articles listed below vary in length, ranging from [very short](https://en.wikipedia.org/wiki/Tahiti_men's_national_basketball_team) to [very long](https://en.wikipedia.org/wiki/List_of_common_misconceptions) ones. Some of these may contain violent/offensive content, so yeah, have fun with that. Not my fault if an article contains blatant profanity in the title, but the unwavering decision of why did I even read the article in the first place, is uhh, because I can.
+The articles listed below vary in length, ranging from [very short](https://w.wiki/CYyn) to [very long](https://w.wiki/3jb8) ones. Some of these may contain violent/offensive content, so yeah, have fun with that. Not my fault if an article contains blatant profanity in the title, but the unwavering decision of why did I even read the article in the first place, is uhh, because I can.
 
-This list does not contain all of the Wikipedia articles I've ever read, but only those that I knew when I started recording this. I'm fairly certain that I remember reading the entirety of the article for [World War II](https://en.wikipedia.org/wiki/World_War_II), I just don't remember when.
+This list does not contain all of the Wikipedia articles I've ever read, but only those that I knew when I started recording this. I'm fairly certain that I remember reading the entirety of the article for [World War II](https://w.wiki/3M2t), I just don't remember when.
 
 Some of you may argue that curating all these shit into a list with dates is a stupid idea, and you're right, it is a stupid idea. Almost seems like that I did this to prove a moot point that nobody asked.
 
@@ -53,7 +53,7 @@ Note to self: you're absolutely allowed to read an article more than once.
 * [DALL-E](https://w.wiki/7kPA)
 * [Dark nebula](https://w.wiki/DCSE)
 * [Deal with the Devil](https://w.wiki/3pEw)
-* [Death by coconut](https://w.wiki/DGFU)
+* [Death by coconut](https://w.wiki/RN3)
 * [Deathbed phenomena](https://w.wiki/DGFU)
 * [Deception Island](https://w.wiki/DCQH)
 * [Delusions of grandeur](https://w.wiki/DHGb)
@@ -957,7 +957,7 @@ Note to self: you're absolutely allowed to read an article more than once.
 * [Dunning–Kruger effect](https://w.wiki/3$Jk)
 
 ## 2025/04/24
-* [Avril 14th](https://w.wiki/3$Jk)
+* [Avril 14th](https://w.wiki/E7rz)
 
 ## 2025/04/24
 * [Hebdomadarian](https://w.wiki/DuJ3)
