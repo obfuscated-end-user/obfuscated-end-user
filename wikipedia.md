@@ -982,7 +982,7 @@ Note to self: you're absolutely allowed to read an article more than once.
 * [Ann Elizabeth Fowler Hodges](https://w.wiki/DziW)
 
 ## 2025/05/05
-* [Proposed Danish acquisition of California](https://w.wiki/D$Ge)
+* [Proposed Danish acquisition of California](https://w.wiki/D$Ge) [**(archive)**](https://web.archive.org/web/20250404034252/https://en.wikipedia.org/wiki/Proposed_Danish_acquisition_of_California)
 * [r/place](https://w.wiki/9K7H)
 * [Earth](https://w.wiki/3hPQ)
 * [Galactic plane](https://w.wiki/D$Jq)
