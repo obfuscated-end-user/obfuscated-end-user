@@ -16,15 +16,17 @@ Yeah, yeah, I've perpetually heard the ol' hackneyed adage that Wikipedia is an 
 
 I consider an article to be completely read if I know I read the very first word of an article, to the very last entry in its See Also or Notes section (if applicable). Anything beyond that is ignored.
 
-You can use this [tool](https://en.wikipedia.org/wiki/User:Caorongjin/wordcount) to see how many words are in an article.
+You can use this [tool](https://en.wikipedia.org/wiki/User:Caorongjin/wordcount) to see how many words are in an [article](https://w.wiki/$F).
 
 Note to self: you're absolutely allowed to read an article more than once.  
 ## On hold
+* [2022–2023 Pentagon document leaks](https://w.wiki/DCyt)
 * [Adobe Flash Player](https://w.wiki/3oNK)
 * [Alan Smithee](https://w.wiki/DCzh)
 * [Algebra](https://w.wiki/352m)
 * [Analysis paralysis](https://w.wiki/7wJ8)
 * [Anarchism](https://w.wiki/J9h)
+* [Anthropodermic bibliopegy](https://w.wiki/EWq$)
 * [Aokigahara](https://w.wiki/3ocp)
 * [Apollo 11](https://w.wiki/Wpv)
 * [Armageddon](https://w.wiki/3oqo)
@@ -48,10 +50,12 @@ Note to self: you're absolutely allowed to read an article more than once.
 * [Conditional (computer programming)](https://w.wiki/9t9C)
 * [Consumption of Tide Pods](https://w.wiki/8M8f)
 * [Conversion therapy](https://w.wiki/3oiw)
+* [Criticism of C++](https://w.wiki/EDcr)
 * [Criticism of Christianity](https://w.wiki/CYtX)
 * [Cultural genocide](https://w.wiki/CjMc)
 * [DALL-E](https://w.wiki/7kPA)
 * [Dark nebula](https://w.wiki/DCSE)
+* [Dead reckoning](https://w.wiki/CsTG)
 * [Deal with the Devil](https://w.wiki/3pEw)
 * [Death by coconut](https://w.wiki/RN3)
 * [Deathbed phenomena](https://w.wiki/DGFU)
@@ -74,6 +78,7 @@ Note to self: you're absolutely allowed to read an article more than once.
 * [Graffiti](https://w.wiki/DCRC)
 * [H. P. Lovecraft](https://w.wiki/3hqa)
 * [Hundred man killing contest](https://w.wiki/E4Nz)
+* [Iceland](https://w.wiki/3Qb3)
 * [Illusory superiority](https://w.wiki/9KJ8)
 * [Inattentional blindness](https://w.wiki/6pez)
 * [Inherently funny word](https://w.wiki/3jTe)
@@ -81,6 +86,7 @@ Note to self: you're absolutely allowed to read an article more than once.
 * [Irreversible binomial](https://w.wiki/DCSY)
 * [Islam in the Arctic](https://w.wiki/DCQ6)
 * [Jabberwocky](https://w.wiki/j)
+* [Japanese war crimes](https://w.wiki/3qXc)
 * [Korean Demilitarized Zone](https://w.wiki/3rWm)
 * [Large language model](https://w.wiki/7Ty5)
 * [Luka Dončić–Anthony Davis trade](https://w.wiki/DCRY)
@@ -97,19 +103,24 @@ Note to self: you're absolutely allowed to read an article more than once.
 * [North Sentinel Island](https://w.wiki/Nsj)
 * [Nothing](https://w.wiki/9dfS)
 * [Obsolescence](https://w.wiki/DCRx)
+* [Omayra Sánchez](https://w.wiki/EEV9)
 * [OS-tan](https://w.wiki/DaM$)
 * [Outback](https://w.wiki/DRt2)
 * [Overview effect](https://w.wiki/D$K4)
 * [Parakaryon](https://w.wiki/DRt7)
 * [Paraprosdokian](https://w.wiki/A2Pr)
 * [Pissing contest](https://w.wiki/DRtH)
+* [Possible monorchism of Adolf Hitler](https://w.wiki/EWqz)
 * [Punycode](https://w.wiki/8g4N)
 * [Quantum mechanics](https://w.wiki/bka)
 * [RAS syndrome](https://w.wiki/7TYz)
 * [Rare Earth hypothesis](https://w.wiki/E26r)
+* [Ratlines (World War II)](https://w.wiki/95Up)
 * [Ray cat](https://w.wiki/9kS6)
 * [ROM hacking](https://w.wiki/DRtc)
 * [Rongorongo](https://w.wiki/CPBh)
+* [Russian warship, go fuck yourself](https://w.wiki/AMxV)
+* [Sarcastic fringehead](https://w.wiki/EEV7)
 * [Saudade](https://w.wiki/6LpQ)
 * [Scaphism](https://w.wiki/Cp2F)
 * [Scribal abbreviation](https://w.wiki/Cr4X)
@@ -124,6 +135,7 @@ Note to self: you're absolutely allowed to read an article more than once.
 * [Spontaneous generation](https://w.wiki/839a)
 * [Stable Diffusion](https://w.wiki/6ATh)
 * [Steampunk](https://w.wiki/3otg)
+* [STEVE](https://w.wiki/EDF5)
 * [Stochastic parrot](https://w.wiki/DCRg)
 * [Stream of consciousness](https://w.wiki/3Arw)
 * [Subsatellite](https://w.wiki/E3Yq)
@@ -135,8 +147,8 @@ Note to self: you're absolutely allowed to read an article more than once.
 * [Timeline of the far future](https://w.wiki/6w$)
 * [Tofu-dreg project](https://w.wiki/AkH3)
 * [Tokenism](https://w.wiki/DCQB)
-* [Tragedy of the commons](https://w.wiki/3oC6)
-* [Trail of Tears](https://w.wiki/LdS)
+* [Tragedy of the commons](https://w.wiki/LdS)
+* [Trail of Tears](https://w.wiki/3oC6)
 * [Truth](https://w.wiki/9YEh)
 * [Tunguska event](https://w.wiki/3nvo)
 * [Turing machine](https://w.wiki/3pvM)
@@ -1020,3 +1032,144 @@ Note to self: you're absolutely allowed to read an article more than once.
 * [English-language spelling reform](https://w.wiki/BApy)
 * [Paciano Rizal](https://w.wiki/E7Yc)
 * [Naitō Julia](https://w.wiki/E7Zc)
+
+## 2025/05/15
+* [RTFM](https://w.wiki/7C9x)
+* [Zip bomb](https://w.wiki/E8Ga)
+
+## 2025/05/19
+* [Entrepreneurship](https://w.wiki/3kYv)
+* [Fljótavík](https://w.wiki/EDZ5)
+* [Geirmund Hjørson Heljarskinn](https://w.wiki/EDZA)
+* [Blue Java banana](https://w.wiki/EDqn)
+
+## 2025/05/21
+* [Dekasegi](https://w.wiki/EF6z)
+
+## 2025/05/26
+* [Epistemology](https://w.wiki/3jY2)
+* [Robert McNaughton](https://w.wiki/EHqq)
+* [Etaoin shrdlu](https://w.wiki/EHr2)
+
+## 2025/05/27
+* [Makoto Hiejima](https://w.wiki/EJQo)
+
+## 2025/05/28
+* [Nunong Karugtong](https://w.wiki/EJwf)
+* [Battle of Mayoyao Ridge](https://w.wiki/EJx5)
+* [Eternity of the world](https://w.wiki/EJ$o)
+* [Reassurance marker](https://w.wiki/EK2H)
+
+## 2025/05/30
+* [XY problem](https://w.wiki/MfS)
+
+## 2025/05/31
+* [Evolution](https://w.wiki/3oHW)
+
+## 2025/06/03
+* [Y, Somme](https://w.wiki/EMfR)
+* [Myxococcus llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogochensis](https://w.wiki/EMfm)
+
+## 2025/06/06
+* [Evolution and the Catholic Church](https://w.wiki/8wqk)
+* [Turing tarpit](https://w.wiki/EPsR)
+* [Brainfuck](https://w.wiki/STN)
+* [Obfuscation (software)](https://w.wiki/Dwu5)
+
+## 2025/06/08
+* [Recovery procedure](https://w.wiki/EQoD)
+* [Excoriation disorder](https://w.wiki/EQ$y)
+* [Det Nordenfjeldske Dampskibsselskab](https://w.wiki/ER3K)
+* [Bull Wesley](https://w.wiki/ER3P)
+* [Gerrit Braamcamp](https://w.wiki/ER3R)
+* [Dáirine Ní Mheadhra](https://w.wiki/ER3U)
+* [Helga the Fair](https://w.wiki/ER3d)
+* [Basil Pennington](https://w.wiki/ER3e)
+* [Urgleptes leopaulini](https://w.wiki/ER3i)
+* [Anthrenus merkli](https://w.wiki/ER3k)
+* [Neochoroterpes](https://w.wiki/ER3m)
+
+## 2025/06/10
+* [Crackme](https://w.wiki/ERzu)
+
+## 2025/06/11
+* [Brain rot](https://w.wiki/CS7u)
+* [Ao (turtle)](https://w.wiki/ESU3)
+* [John Arthur Ackroyd](https://w.wiki/ESYq)
+* [Argleton](https://w.wiki/ESZK)
+* [Google Street View in Antarctica](https://w.wiki/ESZT)
+
+## 2025/06/12
+* [Monkey chanting](https://w.wiki/ETKU)
+
+## 2025/06/13
+* [Walking fern](https://w.wiki/ETg9)
+* [Upirngiviaaluk](https://w.wiki/ETuL)
+
+## 2025/06/15
+* [Messiah complex](https://w.wiki/9KHq)
+* [Monorchism](https://w.wiki/EUsy)
+
+## 2025/06/16
+* [Voiced velar lateral affricate](https://w.wiki/EVAa)
+* [Siege of Philippsburg (1676)](https://w.wiki/EVHy)
+* [Vivere pericoloso](https://w.wiki/EVMr)
+* [Miss Macao](https://w.wiki/EVN8)
+* [1957 Cebu Douglas C-47 crash](https://w.wiki/EVNV)
+* [Jacob Fаggоt](https://w.wiki/9bb3)
+* [Meßkirch](https://w.wiki/EVNy)
+* [Syzyfowe prace](https://w.wiki/EVP5)
+* [Existentialism](https://w.wiki/3jAn)
+* [Kangaroo court](https://w.wiki/7cej)
+* [William Knyvett (athlete)](https://w.wiki/EVTt)
+
+## 2025/06/18
+* [Ghazipur landfill](https://w.wiki/EWYh)
+
+## 2025/06/19
+* [List of countries by nickel production](https://w.wiki/EWkp)
+
+## 2025/06/21
+* [Cali Farquharson](https://w.wiki/EXwC)
+
+## 2025/06/22
+* [Xi Mingze](https://w.wiki/3r7E)
+* [Joseph Terwilliger](https://w.wiki/EY8z)
+* [Adrianne Black](https://w.wiki/EY94)
+* [Extinction event](https://w.wiki/3rGM)
+* [Elvis taxon](https://w.wiki/EYFz)
+* [Emma's giant rat](https://w.wiki/EYG2)
+* [Abies beshanzuensis](https://w.wiki/EYG7)
+* [Fresno nightcrawler](https://w.wiki/EYGX)
+
+## 2025/06/23
+* [Pseudis paradoxa](https://w.wiki/EYes)
+* [In Soviet Russia](https://w.wiki/EYid)
+
+## 2025/06/25
+* [Aman Dangat](https://w.wiki/EZNb)
+* [Bashi Channel](https://w.wiki/EZNi)
+* [Otter Creek (Wabash River tributary)](https://w.wiki/EZWm)
+* [Conference of Religious of Ireland](https://w.wiki/EZWt)
+* [Mines View Park](https://w.wiki/EZZ4)
+
+## 2025/06/26
+* [Dick Kink](https://w.wiki/EZru)
+
+## 2025/06/27
+* [Nakasuk](https://w.wiki/EaQm)
+* [Eye](https://w.wiki/33B8)
+* [Propaganda kimono](https://w.wiki/EaZa)
+* [Red Star OS](https://w.wiki/EaZe)
+* [Brig of Dread](https://w.wiki/EaZm)
+* [Allegory of the long spoons](https://w.wiki/ALQC)
+* [Jeannette Runciman Island](https://w.wiki/Eaae)
+
+## 2025/06/28
+* [Kijong-dong](https://w.wiki/Eauh)
+
+## 2025/06/29
+* [Tuiwa](https://w.wiki/9NnY)
+
+## 2025/07/06
+* [Grounding (discipline technique)](https://w.wiki/Eenr)
