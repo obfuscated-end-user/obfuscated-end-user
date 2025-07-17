@@ -4,8 +4,9 @@
 I write code.  
 You can follow me here on GitHub, or view my repositories.  
 You can also follow me on the social media link I provided. <!-- you only have one link -->  
+Here's my [portfolio](https://portfolio-sigma-ten-32.vercel.app) (unfinished).
 
-"hey, can you please explain to me on what all these licenses do?"
+> "hey, can you please explain to me on what all these licenses do?"
 
 # Hobbies
 * what's that

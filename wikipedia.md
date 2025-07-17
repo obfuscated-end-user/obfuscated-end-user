@@ -1173,3 +1173,20 @@ Note to self: you're absolutely allowed to read an article more than once.
 
 ## 2025/07/06
 * [Grounding (discipline technique)](https://w.wiki/Eenr)
+
+## 2025/07/07
+* [Manila Village](https://w.wiki/Ef5H)
+* [Barataria Bay](https://w.wiki/Ef5J)
+* [Cyrillic O variants](https://w.wiki/EfHF)
+
+## 2025/07/08
+* [Asio (C++ library)](https://w.wiki/EfsR)
+* [Mayr Facci](https://w.wiki/EfwP)
+
+## 2025/07/15
+* [Peacocking](https://w.wiki/EjKA)
+
+## 2025/07/17
+* [Fly in the ointment](https://w.wiki/EkgC)
+* [Chili grenade](https://w.wiki/EkgK)
+* [Pepper X](https://w.wiki/7qjy)
