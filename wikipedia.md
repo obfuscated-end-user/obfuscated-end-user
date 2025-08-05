@@ -1190,3 +1190,39 @@ Note to self: you're absolutely allowed to read an article more than once.
 * [Fly in the ointment](https://w.wiki/EkgC)
 * [Chili grenade](https://w.wiki/EkgK)
 * [Pepper X](https://w.wiki/7qjy)
+
+## 2025/07/18
+* [Cornick (food)](https://w.wiki/EmDH)
+
+## 2025/07/19
+* [Spongilla prespensis](https://w.wiki/EmrJ)
+
+## 2025/07/20
+* [Adversary (cryptography)](https://w.wiki/EnQ4)
+* [Faith healing](https://w.wiki/EnQ4)
+* [Table of magical correspondences](https://w.wiki/EnRJ)
+* [Broker](https://w.wiki/EnS5)
+* [Carafe](https://w.wiki/Enng)
+* [is-a](https://w.wiki/Eo8N)
+
+## 2025/07/21
+* [Ho Fuk Yan](https://w.wiki/EoPa)
+* [Hammer pants](https://w.wiki/Eoaj)
+
+## 2025/07/25
+* [Panday Pira](https://w.wiki/EqW5)
+* [Antonio Trashorras](https://w.wiki/EqaZ)
+
+## 2025/07/27
+* [Londonistan](https://w.wiki/Erhj)
+* [False memory](https://w.wiki/3k54)
+* [Perlucidus (cloud variety)](https://w.wiki/Erif)
+
+## 2025/07/28
+* [Blinking Sam](https://w.wiki/CFe8)
+
+## 2025/07/28
+* [Fandom (website)](https://w.wiki/52yn)
+
+## 2025/08/03
+* [Fast inverse square root](https://w.wiki/Evhu)
