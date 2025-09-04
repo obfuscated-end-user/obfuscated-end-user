@@ -44,6 +44,7 @@ Note to self: you're absolutely allowed to read an article more than once.
 * [Chinese room](https://w.wiki/5Dfm)
 * [Chris McCandless](https://w.wiki/3hRt)
 * [Cia-Cia language](https://w.wiki/DCQf)
+* [Clanker](https://w.wiki/E$MM)
 * [Closure (computer programming)](https://w.wiki/isH)
 * [Color](https://w.wiki/3pAr)
 * [Colorless green ideas sleep furiously](https://w.wiki/CPBC)
@@ -60,6 +61,7 @@ Note to self: you're absolutely allowed to read an article more than once.
 * [Death by coconut](https://w.wiki/RN3)
 * [Deathbed phenomena](https://w.wiki/DGFU)
 * [Deception Island](https://w.wiki/DCQH)
+* [Delayed gratification](https://w.wiki/qXH)
 * [Delusions of grandeur](https://w.wiki/DHGb)
 * [Dependency hell](https://w.wiki/8ucg)
 * [Disinhibition](https://w.wiki/DV8V)
@@ -76,6 +78,7 @@ Note to self: you're absolutely allowed to read an article more than once.
 * [Golden Rule](https://w.wiki/3rpD)
 * [Government by algorithm](https://w.wiki/DCST)
 * [Graffiti](https://w.wiki/DCRC)
+* [Hapax legomenon](https://w.wiki/F5Vf)
 * [H. P. Lovecraft](https://w.wiki/3hqa)
 * [Hundred man killing contest](https://w.wiki/E4Nz)
 * [Iceland](https://w.wiki/3Qb3)
@@ -1226,3 +1229,42 @@ Note to self: you're absolutely allowed to read an article more than once.
 
 ## 2025/08/03
 * [Fast inverse square root](https://w.wiki/Evhu)
+
+## 2025/08/06
+* [Finger Snail](https://w.wiki/ExB7)
+* [Chinese Apartment Art](https://w.wiki/ExBG)
+* [Filipinos](https://w.wiki/ExPV)
+
+## 2025/08/07
+* [Karen Green (artist)](https://w.wiki/ExcM)
+
+## 2025/08/08
+* [Finno-Ugrian suicide hypothesis](https://w.wiki/EyHe)
+* [Einstein versus Oppenheimer](https://w.wiki/EyJ2)
+
+## 2025/08/12
+* [Nigaz](https://w.wiki/E$Jy)
+
+## 2025/08/16
+* [Performative male](https://w.wiki/F3Jd)
+
+## 2025/08/18
+* [Sawndip](https://w.wiki/ANKN)
+* [Chữ Nôm](https://w.wiki/BLHD)
+
+## 2025/08/19
+* [Headless Rider urban legend](https://w.wiki/F4kP)
+
+## 2025/08/25
+* [PayPaI](https://w.wiki/F82S)
+
+## 2025/08/29
+* [MetaSynth](https://w.wiki/FBUj)
+
+## 2025/08/31
+* [The Aristocrats](https://w.wiki/FCXm)
+* [Blood eagle](https://w.wiki/3jVo)
+
+## 2025/09/03
+* [Pepsi Number Fever](https://w.wiki/EPzJ)
+* [Théâtre D'opéra Spatial](https://w.wiki/8yQ3)
