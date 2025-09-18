@@ -1268,3 +1268,6 @@ Note to self: you're absolutely allowed to read an article more than once.
 ## 2025/09/03
 * [Pepsi Number Fever](https://w.wiki/EPzJ)
 * [Théâtre D'opéra Spatial](https://w.wiki/8yQ3)
+
+## 2025/09/16
+* [Moriyama Einosuke](https://w.wiki/FLon)
