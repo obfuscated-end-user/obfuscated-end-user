@@ -1277,3 +1277,14 @@ Note to self: you're absolutely allowed to read an article more than once.
 
 ## 2025/09/16
 * [Bypass Paywalls Clean](https://w.wiki/BDxv)
+
+## 2025/09/27
+* [Finance](https://w.wiki/8GEi)
+* [Acroterion](https://w.wiki/FTjP)
+
+## 2025/09/28
+* [Formal language](https://w.wiki/FU4D)
+* [Tyska Skolgränd](https://w.wiki/FU56)
+
+## 2025/09/28
+* [Chalkboard scraping](https://w.wiki/E9n)
