@@ -90,6 +90,7 @@ Note to self: you're absolutely allowed to read an article more than once.
 * [Islam in the Arctic](https://w.wiki/DCQ6)
 * [Jabberwocky](https://w.wiki/j)
 * [Japanese war crimes](https://w.wiki/3qXc)
+* [Justice delayed is justice denied](https://w.wiki/A7JL)
 * [Korean Demilitarized Zone](https://w.wiki/3rWm)
 * [Large language model](https://w.wiki/7Ty5)
 * [Luka Dončić–Anthony Davis trade](https://w.wiki/DCRY)
@@ -1288,3 +1289,9 @@ Note to self: you're absolutely allowed to read an article more than once.
 
 ## 2025/09/28
 * [Chalkboard scraping](https://w.wiki/E9n)
+
+## 2025/10/05
+* [Öndör Gongor](https://w.wiki/FYky)
+
+## 2025/10/06
+* [In Search of The](https://w.wiki/FZ8t)
