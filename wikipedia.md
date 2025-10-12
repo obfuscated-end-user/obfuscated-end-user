@@ -51,6 +51,7 @@ Note to self: you're absolutely allowed to read an article more than once.
 * [Conditional (computer programming)](https://w.wiki/9t9C)
 * [Consumption of Tide Pods](https://w.wiki/8M8f)
 * [Conversion therapy](https://w.wiki/3oiw)
+* [Criticism of advertising](https://w.wiki/Fco4)
 * [Criticism of C++](https://w.wiki/EDcr)
 * [Criticism of Christianity](https://w.wiki/CYtX)
 * [Cultural genocide](https://w.wiki/CjMc)
@@ -1295,3 +1296,15 @@ Note to self: you're absolutely allowed to read an article more than once.
 
 ## 2025/10/06
 * [In Search of The](https://w.wiki/FZ8t)
+
+## 2025/10/09
+* [Christopher Doyon](https://w.wiki/Fbmz)
+
+## 2025/10/10
+* [Cirrus spissatus cloud](https://w.wiki/Fd2k)
+
+## 2025/10/11
+* [France](https://w.wiki/33)
+
+## 2025/10/12
+* [Thorne miniature rooms](https://w.wiki/FePS)
