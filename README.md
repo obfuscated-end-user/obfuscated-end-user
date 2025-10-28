@@ -7,11 +7,11 @@ You can follow me here on GitHub, or view my repositories.
 <!-- you only have one link -->  
 Here's my [portfolio](https://portfolio-sigma-ten-32.vercel.app) (unfinished).
 
-> "hey, can you please explain to me on what all these licenses do?"
-
 # Hobbies
-* what's that
-* [Wikipedia](https://github.com/obfuscated-end-user/obfuscated-end-user/blob/main/wikipedia.md)
+* programming
+* playing games
+* watching videos
+* [others](https://github.com/obfuscated-end-user/obfuscated-end-user/blob/main/wikipedia.md)
 
 # Account statistics
 Generated using [joshxfi](https://github.com/joshxfi)'s [GitHub Stats Generator](https://gh-stats-gen.vercel.app).  

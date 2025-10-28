@@ -1308,3 +1308,34 @@ Note to self: you're absolutely allowed to read an article more than once.
 
 ## 2025/10/12
 * [Thorne miniature rooms](https://w.wiki/FePS)
+
+## 2025/10/13
+* [Deathmetal (EP)](https://w.wiki/E4TY)
+
+## 2025/10/16
+* [Flying height](https://w.wiki/FhYN)
+* [Dasmariñas Bagong Bayan](https://w.wiki/FhcA)
+* [Karlqvist gap](https://w.wiki/Fhk8)
+
+## 2025/10/21
+* [Meow Wars](https://w.wiki/9w6T)
+* [Laurence Canter and Martha Siegel](https://w.wiki/Dmnc)
+* [V-coding](https://w.wiki/Fm9r)
+* [Stile Project](https://w.wiki/Fm9t)
+
+## 2025/10/23
+* [Yomotsu Hirasaka](https://w.wiki/FnG5)
+* [Aornum](https://w.wiki/FnG8)
+
+## 2025/10/24
+* [Phosphoribosylaminoimidazolesuccinocarboxamide](https://w.wiki/Fnn2)
+
+## 2025/10/26
+* [Abacination](https://w.wiki/FoqQ)
+* [Malaysian football naturalisation scandal](https://w.wiki/FoqW)
+
+## 2025/10/27
+* [Hwang Jang-yop](https://w.wiki/Act7)
+* [Choe Deok-sin](https://w.wiki/FpMn)
+* [Datu Bago](https://w.wiki/Fpmu)
+* [Trojan Room coffee pot](https://w.wiki/FpoG)
