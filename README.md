@@ -21,6 +21,8 @@ Here's my [portfolio](https://portfolio-sigma-ten-32.vercel.app) (unfinished).
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=obfuscated-end-user&theme=radical)  
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=obfuscated-end-user&layout=compact&theme=radical&hide=jupyter%20notebook)
 
+![](https://komarev.com/ghpvc/?username=obfuscated-end-user&color=brightgreen)
+
 <!--
 # Account statistics
 Generated using [joshxfi](https://github.com/joshxfi)'s [GitHub Stats Generator](https://gh-stats-gen.vercel.app).  
