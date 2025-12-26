@@ -223,7 +223,7 @@ Note to self: you're absolutely allowed to read an article more than once.
 * [Ancient lake](https://w.wiki/CYuA)
 
 ## 2024/02/09
-* [Niggаs vs. Black People](https://w.wiki/CYuC)
+* [Nіggаs vs. Black People](https://w.wiki/CYuC)
 * [Mutilated Lips](https://w.wiki/CYuE)
 * [Claude Coleman Jr.](https://w.wiki/CYuG)
 * [Alphabet (formal languages)](https://w.wiki/CYuJ)
@@ -293,7 +293,7 @@ Note to self: you're absolutely allowed to read an article more than once.
 * [Bayot language](https://w.wiki/CYzN)
 
 ## 2024/02/26
-* [Niggеr (Clawfinger song)](https://w.wiki/CYzP)
+* [Nіggеr (Clawfinger song)](https://w.wiki/CYzP)
 * [Jibin](https://w.wiki/CYzQ)
 
 ## 2024/02/27
@@ -1339,3 +1339,73 @@ Note to self: you're absolutely allowed to read an article more than once.
 * [Choe Deok-sin](https://w.wiki/FpMn)
 * [Datu Bago](https://w.wiki/Fpmu)
 * [Trojan Room coffee pot](https://w.wiki/FpoG)
+
+## 2025/10/29
+* [MV SuperFerry 14](https://w.wiki/Fqq$)
+
+## 2025/10/31
+* [ElectroBOOM](https://w.wiki/9HYL)
+
+## 2025/11/01
+* [Fuck](https://w.wiki/325)
+
+## 2025/11/03
+* [Unjust vexation](https://w.wiki/Fv4u)
+* [Statute forbidding Bearing of Armour](https://w.wiki/Fv67)
+
+## 2025/11/04
+* [Elfriede Blauensteiner](https://w.wiki/Fvh$)
+
+## 2025/11/05
+* [Bathala (island)](https://w.wiki/FwYn)
+* [Manila Boys' Town Complex](https://w.wiki/FwZ4)
+
+## 2025/11/06
+* [The Powder Toy](https://w.wiki/AViJ)
+* [Alfred Espinas](https://w.wiki/FxqW)
+* [Friedrich Nietzsche](https://w.wiki/3i36)
+* [Kimiko Douglass-Ishizaka](https://w.wiki/Fxrk)
+
+## 2025/11/07
+* [Function (computer programming)](https://w.wiki/Bz8Y)
+
+## 2025/11/10
+* [Fundamental theorem of calculus](https://w.wiki/8spt)
+* [Suicide by hanging](https://w.wiki/3i7i)
+
+## 2025/11/22
+* [Donkey flight](https://w.wiki/GEB$)
+
+## 2025/11/24
+* [Moron Lake](https://w.wiki/GG3q)
+* [Spitzenkörper](https://w.wiki/GG6T)
+* [Pine barrens](https://w.wiki/GGAC)
+
+## 2025/11/29
+* [Mesmerizer (song)](https://w.wiki/ELaT)
+
+## 2025/12/01
+* [Kimeli Wilson Naiyomah](https://w.wiki/GSrg)
+* [Pinch-induced behavioral inhibition](https://w.wiki/GStQ)
+
+## 2025/12/02
+* [Cape Fligely](https://w.wiki/GTds)
+
+## 2025/12/05
+* [1593 transported soldier legend](https://w.wiki/59F)
+* [Olo (color)](https://w.wiki/FeKF)
+
+## 2025/12/07
+* [Chumbox](https://w.wiki/GVbK)
+
+## 2025/12/11
+* [Zamboanga City Little League team](https://w.wiki/Gb2n)
+
+## 2025/12/13
+* [Pearlfish](https://w.wiki/GcW$)
+
+## 2025/12/17
+* [My Mom Is Kinda Homeless](https://w.wiki/GyTX)
+
+## 2025/12/25
+* [Chinese character encoding](https://w.wiki/HBZe)
