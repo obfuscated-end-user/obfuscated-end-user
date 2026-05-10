@@ -561,7 +561,7 @@ Note to self: you're absolutely allowed to read an article more than once.
 * [Bakla](https://w.wiki/CbEr)
 * [Bataan Death March](https://w.wiki/3sEr)
 
-## 2024/06/30
+## 2024/07/30
 * [Big O notation](https://w.wiki/4aM)
 
 ## 2024/07/31
@@ -1409,3 +1409,117 @@ Note to self: you're absolutely allowed to read an article more than once.
 
 ## 2025/12/25
 * [Chinese character encoding](https://w.wiki/HBZe)
+
+## 2025/12/29
+* [Disarticulation](https://w.wiki/HEYx)
+* [Total body disruption](https://w.wiki/HEYy)
+* [Incompatible with life](https://w.wiki/HEZ2)
+
+## 2025/12/30
+* [Nithing pole](https://w.wiki/HFVm)
+
+## 2026/01/01
+* [Cutting down the nets](https://w.wiki/HGL3)
+* [Kolmogorov integral](https://w.wiki/HGXL)
+
+## 2026/01/02
+* [La conquista la hicieron los indios y la independencia los españoles](https://w.wiki/HHDp)
+
+## 2026/01/04
+* [Eternal September](https://w.wiki/8YZu)
+
+## 2026/01/07
+* [Naming laws in China](https://w.wiki/HMDy)
+* [Chinese characters of Empress Wu](https://w.wiki/HMEe)
+
+## 2026/01/08
+* [Killing of Renee Good](https://w.wiki/HMrW)
+* [Technobabble](https://w.wiki/HNAA)
+* [Bit bucket](https://w.wiki/HNAi)
+
+## 2026/01/13
+* [Passport bro](https://w.wiki/HRnL)
+
+## 2026/01/16
+* [White monkey](https://w.wiki/FB7L)
+* [2022 University of Idaho murders](https://w.wiki/HVUg)
+
+## 2026/01/24
+* [Nicoleño language](https://w.wiki/HaZY)
+* [Anonymous pilgrim of Piacenza](https://w.wiki/HaZd)
+
+## 2026/01/31
+* [Donald Triplett](https://w.wiki/HfSv)
+* [Pronoun reversal](https://w.wiki/HfTM)
+* [Ezov](https://w.wiki/HfUV)
+* [Grand Prismatic Spring](https://w.wiki/7dhG)
+
+## 2026/02/05
+* [Fungus](https://w.wiki/3kdG)
+* [Twin mountain drawing](https://w.wiki/Hk3A)
+
+## 2026/02/08
+* [/b/](https://w.wiki/Hmx$)
+
+## 2026/02/14
+* [Pectinatella magnifica](https://w.wiki/Hqo6)
+* [Bitter lesson](https://w.wiki/G7vP)
+
+## 2026/02/15
+* [Ransom note effect](https://w.wiki/HrZ6)
+
+## 2026/02/25
+* [Great Plains Shelterbelt](https://w.wiki/GcK4)
+* [Makkaraperunat](https://w.wiki/Hzbq)
+
+## 2026/02/27
+* [Amygdala hijack](https://w.wiki/8KSw)
+* [Fuzzy logic](https://w.wiki/439Y)
+
+## 2026/02/28
+* [Android software development](https://w.wiki/J3Dp)
+
+## 2026/03/04
+* [Makoto Matsumoto (mathematician)](https://w.wiki/J9r8)
+
+## 2026/03/15
+* [Reasonable Blackman](https://w.wiki/JjdC)
+
+## 2026/03/27
+* [Hessy Levinsons Taft](https://w.wiki/KQ3y)
+
+## 2026/03/28
+* [Shit happens](https://w.wiki/KSou)
+
+## 2026/03/30
+* [Adactylidium](https://w.wiki/KZpq)
+
+## 2026/03/30
+* [One red paperclip](https://w.wiki/CCwD)
+
+## 2026/04/05
+* [Galaxy](https://w.wiki/3nmY)
+* [Pictish Beast](https://w.wiki/KpTG)
+* [Gamergate](https://w.wiki/FS2u)
+
+## 2026/04/06
+* [Genocide](https://w.wiki/3kxz)
+
+## 2026/04/07
+* [Ejaculatory prayer](https://w.wiki/7wrF)
+
+## 2026/04/08
+* [Who Me](https://w.wiki/Kv9y)
+
+## 2026/04/12
+* [Programmer art](https://w.wiki/L8Ef)
+
+## 2026/04/15
+* [Sienna Rose](https://w.wiki/LEvL)
+* [Artificial intelligence in spirituality](https://w.wiki/LEvZ)
+
+## 2026/04/18
+* [Geodesy](https://w.wiki/GF7A)
+
+## 2026/04/24
+* [Clown car](https://w.wiki/M8b4)
