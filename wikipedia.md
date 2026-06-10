@@ -1523,3 +1523,12 @@ Note to self: you're absolutely allowed to read an article more than once.
 
 ## 2026/04/24
 * [Clown car](https://w.wiki/M8b4)
+
+## 2026/05/17
+* [Publius Enigma](https://w.wiki/NWAH)
+
+## 2026/05/26
+* [Geometry](https://w.wiki/7yZH)
+
+## 2026/06/09
+* [Germany](https://w.wiki/zhY)
