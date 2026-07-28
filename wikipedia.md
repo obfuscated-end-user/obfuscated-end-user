@@ -1532,3 +1532,19 @@ Note to self: you're absolutely allowed to read an article more than once.
 
 ## 2026/06/09
 * [Germany](https://w.wiki/zhY)
+
+## 2026/06/16
+* [Ghost](https://w.wiki/3pen)
+
+## 2026/06/27
+* [Global catastrophic risk](https://w.wiki/3VW)
+
+## 2026/07/11
+* [Kuchikamizake](https://w.wiki/SFU4)
+* [Murder of Christine Silawan](https://w.wiki/AyDz)
+
+## 2026/07/12
+* [static_cast](https://w.wiki/SHPu)
+
+## 2026/07/26
+* [Les goddams](https://w.wiki/Smjo)
