@@ -1548,3 +1548,6 @@ Note to self: you're absolutely allowed to read an article more than once.
 
 ## 2026/07/26
 * [Les goddams](https://w.wiki/Smjo)
+
+## 2026/08/02
+* [Raised intersection](https://w.wiki/T3Q8)
