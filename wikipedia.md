@@ -1551,3 +1551,18 @@ Note to self: you're absolutely allowed to read an article more than once.
 
 ## 2026/08/02
 * [Raised intersection](https://w.wiki/T3Q8)
+
+## 2026/08/30
+* [Globalization](https://w.wiki/3jnN)
+
+## 2026/09/05
+* [Pope Julius (card game)](https://w.wiki/UCgE)
+
+## 2026/09/06
+* [Manius (praenomen)](https://w.wiki/UDu$)
+
+## 2026/09/30
+* [Joe Kieyoomia](https://w.wiki/VwmD)
+
+## 2026/10/12
+* [Golden ratio](https://w.wiki/Uue)
